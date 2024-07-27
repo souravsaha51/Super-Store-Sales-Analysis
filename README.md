@@ -23,7 +23,7 @@
 
 
 <h1><a name='dashboard'>Dashboard</a></h1>
-<img width="900" alt="Coding" src="https://github.com/Mariyajoseph24/Superstore_PowerBI_Dashboard/blob/main/super.png">
+<img width="900" alt="Coding" src="https://github.com/souravsaha321/Super-Store-Sales-Analysis/blob/main/Dashboard.png">
 <h1><a name="visualizationtools">Visualization Tools</a></h1>
 <ul><li>Tool used🛠️: Power BI</li>
 <li> Data set used: <a href="https://www.kaggle.com/datasets/vivek468/superstore-dataset-final">
