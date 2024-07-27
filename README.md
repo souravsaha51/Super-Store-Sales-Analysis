@@ -20,3 +20,12 @@
 - Data Cleaning
 - Data Transformation
 - Data Visualization
+
+
+<h1><a name='dashboard'>Dashboard</a></h1>
+<img width="900" alt="Coding" src="https://github.com/Mariyajoseph24/Superstore_PowerBI_Dashboard/blob/main/super.png">
+<h1><a name="visualizationtools">Visualization Tools</a></h1>
+<ul><li>Tool used🛠️: Power BI</li>
+<li> Data set used: <a href="https://www.kaggle.com/datasets/vivek468/superstore-dataset-final">
+         <img src=" Superstore Dataset" alt=""> Superstore Dataset</a></li></ul>
+<p>This Power BI project employs a diverse range of visualizations, including bar charts, slicers, line charts, pie charts, tables, and cards. Each visualization is thoughtfully chosen to represent data in the most informative and visually engaging manner.</p>
