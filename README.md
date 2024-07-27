@@ -13,3 +13,10 @@
   <li>Segmenting Sales Analysis</li>
   <li>Comprehensive Overview</li>
 </ul>
+
+# 🛠️ Skills showcased in this Project
+
+- Data Extraction
+- Data Cleaning
+- Data Transformation
+- Data Visualization
