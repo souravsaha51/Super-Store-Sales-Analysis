@@ -16,10 +16,12 @@
 
 # 🛠️ Skills showcased in this Project
 
-- Data Extraction
-- Data Cleaning
+- Data Collection
+- Data Loading and Cleaning
 - Data Transformation
 - Data Visualization
+- Data Extraction
+
 
 
 <h1><a name='dashboard'>Dashboard</a></h1>
